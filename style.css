@@ -1,0 +1,18 @@
+#container{
+    background-color: rgba(137, 43, 226, 0.363);
+    width:700px;
+    height:520px;
+    display:grid;
+    align-items: center;
+    grid-template-columns: repeat(4, 160px);
+    grid-gap:20px;
+    margin:auto;
+    padding:20px;
+}
+img {
+    width: 100%;
+    
+}
+h1,h2, h3{
+    text-align: center;
+}
